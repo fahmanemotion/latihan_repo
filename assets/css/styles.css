@@ -33,16 +33,21 @@ p {
 
 /* Layout */
 
-.container {
+/* .container {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
-}
+} */
 
 /* Header */
 
 header {
   background-color: #ffffff;
+  padding: 20px;
+}
+
+section {
+  background-color: aqua;
   padding: 20px;
 }
 
